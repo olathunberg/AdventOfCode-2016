@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FSharp", "FSharp", "{B66D576D-F1BE-48B8-AFAC-5CDADBF70223}"
+	ProjectSection(SolutionItems) = preProject
+		AdventOfCode2016\Day01.fsx = AdventOfCode2016\Day01.fsx
+		AdventOfCode2016\Day01Input.txt = AdventOfCode2016\Day01Input.txt
+		AdventOfCode2016\Day02.fsx = AdventOfCode2016\Day02.fsx
+		AdventOfCode2016\Day02Input.txt = AdventOfCode2016\Day02Input.txt
+		AdventOfCode2016\Day03.fsx = AdventOfCode2016\Day03.fsx
+		AdventOfCode2016\Day03Input.txt = AdventOfCode2016\Day03Input.txt
+		AdventOfCode2016\Day04.fsx = AdventOfCode2016\Day04.fsx
+		AdventOfCode2016\Day04Input.txt = AdventOfCode2016\Day04Input.txt
+		AdventOfCode2016\Day05.fsx = AdventOfCode2016\Day05.fsx
+		AdventOfCode2016\Day06.fsx = AdventOfCode2016\Day06.fsx
+		AdventOfCode2016\Day06Input.txt = AdventOfCode2016\Day06Input.txt
+		AdventOfCode2016\Day06TestInput.txt = AdventOfCode2016\Day06TestInput.txt
+		AdventOfCode2016\Day07.fsx = AdventOfCode2016\Day07.fsx
+		AdventOfCode2016\Day07Input.txt = AdventOfCode2016\Day07Input.txt
+		AdventOfCode2016\Day07TestInput.txt = AdventOfCode2016\Day07TestInput.txt
+		AdventOfCode2016\Day08.fsx = AdventOfCode2016\Day08.fsx
+		AdventOfCode2016\Day08Input.txt = AdventOfCode2016\Day08Input.txt
+		AdventOfCode2016\Day09.fsx = AdventOfCode2016\Day09.fsx
+		AdventOfCode2016\Day09Input.txt = AdventOfCode2016\Day09Input.txt
+		AdventOfCode2016\Day10.fsx = AdventOfCode2016\Day10.fsx
+		AdventOfCode2016\Day10Input.txt = AdventOfCode2016\Day10Input.txt
+		AdventOfCode2016\Day11.fsx = AdventOfCode2016\Day11.fsx
+		AdventOfCode2016\Day11Input.txt = AdventOfCode2016\Day11Input.txt
+		AdventOfCode2016\Day12.fsx = AdventOfCode2016\Day12.fsx
+		AdventOfCode2016\Day12Input.txt = AdventOfCode2016\Day12Input.txt
+		AdventOfCode2016\Day13.fsx = AdventOfCode2016\Day13.fsx
+		AdventOfCode2016\Day14.fsx = AdventOfCode2016\Day14.fsx
+		AdventOfCode2016\Day15.fsx = AdventOfCode2016\Day15.fsx
+		AdventOfCode2016\Day16.fsx = AdventOfCode2016\Day16.fsx
+		AdventOfCode2016\Day17.fsx = AdventOfCode2016\Day17.fsx
+		AdventOfCode2016\Day18.fsx = AdventOfCode2016\Day18.fsx
+		AdventOfCode2016\Day19.fsx = AdventOfCode2016\Day19.fsx
+		AdventOfCode2016\Day20.fsx = AdventOfCode2016\Day20.fsx
+		AdventOfCode2016\Day20Input.txt = AdventOfCode2016\Day20Input.txt
+		AdventOfCode2016\Day21.fsx = AdventOfCode2016\Day21.fsx
+		AdventOfCode2016\Day21Input.txt = AdventOfCode2016\Day21Input.txt
+		AdventOfCode2016\Day22.fsx = AdventOfCode2016\Day22.fsx
+		AdventOfCode2016\Day22Input.txt = AdventOfCode2016\Day22Input.txt
+		AdventOfCode2016\Day23.fsx = AdventOfCode2016\Day23.fsx
+		AdventOfCode2016\Day23Input.txt = AdventOfCode2016\Day23Input.txt
+		AdventOfCode2016\Day24.fsx = AdventOfCode2016\Day24.fsx
+		Day24Input.txt = Day24Input.txt
+		AdventOfCode2016\Day25.fsx = AdventOfCode2016\Day25.fsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
